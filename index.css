@@ -1,0 +1,36 @@
+body {
+  background-image: url("images/pikachu.png");
+  background-repeat:no-repeat;
+  background-size:cover;
+}
+
+
+.jumbotron {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: transparent;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 10%;
+  background-color: #859438;
+}
+
+.me-img {
+  border-radius: 50%;
+}
+
+.display-4 {
+  color: black;
+}
+
+.lead {
+  margin: 0px;
+  color: black;
+
+}
